@@ -1,3 +1,8 @@
+#Explorateur de fichier
+Un explorateur de fichiers (comme l'Explorateur de fichiers sur Windows, Finder sur macOS, ou Nautilus/Files sur Linux) est un outil essentiel de votre système d'exploitation pour gérer, organiser et interagir avec vos fichiers et dossiers.
+
+
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import filedialog
